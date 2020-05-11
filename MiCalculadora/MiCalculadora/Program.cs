@@ -10,6 +10,7 @@ namespace MiCalculadora
     {
         static void Main(string[] args)
         {
+		Console.Write("Linea ingresada desde Linux ubuntu");
         }
     }
 }
