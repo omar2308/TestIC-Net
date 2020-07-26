@@ -14,9 +14,9 @@ namespace MiCalculadora.Test
             Assert.AreEqual(5, resultado);
 
             Calculadora calc2 = new Calculadora();
-            int resultado2 = calc2.sumar(10, 50);
-            Assert.AreEqual(60, resultado2);
-
+            int resultadoX = calc2.sumar(10, 50);
+            Assert.AreEqual(100, resultadoX);
+		
 			
         }
         [TestMethod]
